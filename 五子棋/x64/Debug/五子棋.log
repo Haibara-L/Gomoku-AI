@@ -1,0 +1,6 @@
+﻿  Chess.cpp
+D:\程序\vs cpp\五子棋\五子棋\Chess.cpp(25,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\vs cpp\五子棋\五子棋\Chess.cpp(25,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\vs cpp\五子棋\五子棋\Chess.cpp(26,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\程序\vs cpp\五子棋\五子棋\Chess.cpp(26,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  五子棋.vcxproj -> D:\程序\vs cpp\五子棋\x64\Debug\五子棋.exe
