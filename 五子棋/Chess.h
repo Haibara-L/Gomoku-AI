@@ -24,7 +24,8 @@ public:
 	int getBoardGrade();
 	bool gameIsOver();
 	int getChessType(int row, int column);
-	int getChessTyep(ChessPos* pos);
+	int getChessType(ChessPos* pos);
+
 
 private:
 	int boardSize;
@@ -35,5 +36,6 @@ private:
 	vector<vector<int>>chessMap;
 	IMAGE imageWhiteChess;
 	IMAGE imageBlackChess;
+	void upgradeBoardIf(ChessPos* pos);
 };
 
