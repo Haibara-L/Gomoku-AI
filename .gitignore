@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio 临时文件、设置文件
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# 项目文件
+bin/
+obj/
