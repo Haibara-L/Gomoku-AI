@@ -71,6 +71,8 @@ void putimagePNG(int x, int y, IMAGE* picture) //x为载入图片的X坐标，y为Y坐标
 }
 void Chess::chessDown(ChessPos* pos, chessType type)
 {
+	lastPos.row = pos->row;
+	lastPos.col = pos->col;
 	float x = (pos->row) * chessSize + margin_x - chessSize / 2;
 	float y = (pos->col) * chessSize + margin_y - chessSize / 2;
 	if (type == BLACK_CHESS)
@@ -145,6 +147,20 @@ int Chess::getBoardGrade()
 
 bool Chess::gameIsOver()
 {
+	if (checkWinner())
+	{
+		Sleep(1500);
+		if (playerFlag == false)
+		{
+			cout << "你赢了" << endl;
+		}
+		else
+		{
+			cout << "你输了" << endl;
+		}
+		system("pause");
+		return true;
+	}
 	return false;
 }
 
@@ -167,5 +183,51 @@ void Chess::upgradeBoardIf(ChessPos* pos)
 {
 	chessMap[pos->row][pos->col] = playerFlag?1:-1;
 	playerFlag = !playerFlag;
+}
+
+bool Chess::checkWinner()
+{
+	int lastchess = chessMap[lastPos.row][lastPos.col];
+	for (int dx = -1; dx <= 1; dx++)
+	{
+		for (int dy = 0; dy <= 1; dy++)
+		{
+			int num = 0;
+			int x, y;
+			if (dx != 1 && dy == 0)
+			{
+				continue;
+			}
+			for (int i = 1; i <= 4; i++)
+			{
+				x = lastPos.row + i * dx;
+				y = lastPos.col + i * dy;
+				if (x >= 0 && x < boardSize && y >= 0 && y < boardSize)
+				{
+					if (chessMap[x][y] == lastchess)
+					{
+						num++;
+					}
+				}
+			}
+			for (int i = 1; i <= 4; i++)
+			{
+				x = lastPos.row - i * dx;
+				y = lastPos.col - i * dy;
+				if (x >= 0 && x < boardSize && y >= 0 && y < boardSize)
+				{
+					if (chessMap[x][y] == lastchess)
+					{
+						num++;
+					}
+				}
+			}
+			if (num + 1 >= 5)
+			{
+				return true;
+			}
+		}
+	}
+	return false;
 }
 

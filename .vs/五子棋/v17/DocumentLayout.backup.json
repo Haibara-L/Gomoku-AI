@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Man.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Chess.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,8 +31,12 @@
       "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Manage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\Man.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\AI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5716412-B8C7-4D38-9234-B8D13D67CDFA}|\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB.vcxproj|solutionrelative:\u4E94\u5B50\u68CB\\AI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,19 +46,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AI.cpp",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.cpp",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\AI.cpp",
               "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.cpp",
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\AI.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-04T07:44:33.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Man.cpp",
+              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.cpp",
+              "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Man.cpp",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.cpp",
+              "RelativeToolTip": "\u4E94\u5B50\u68CB\\Man.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-04T07:44:36.674Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -72,33 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Chess.cpp",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.cpp",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Chess.cpp",
-              "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.cpp",
-              "RelativeToolTip": "\u4E94\u5B50\u68CB\\Chess.cpp",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAAKMAAAADAAAAAAAAAA==",
+              "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.cpp*",
+              "RelativeToolTip": "\u4E94\u5B50\u68CB\\Chess.cpp*",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv6AAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-04T07:44:35.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ChessGame.cpp",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.cpp",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\ChessGame.cpp",
               "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.cpp",
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\ChessGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-04T08:25:46.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Manage.cpp",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Manage.cpp",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Manage.cpp",
@@ -111,33 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Man.cpp",
-              "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.cpp",
-              "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Man.cpp",
-              "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.cpp",
-              "RelativeToolTip": "\u4E94\u5B50\u68CB\\Man.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-04T07:44:36.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ChessGame.h",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.h",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\ChessGame.h",
               "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\ChessGame.h",
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\ChessGame.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-04T07:44:07.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AI.h",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\AI.h",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\AI.h",
@@ -145,8 +146,7 @@
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\AI.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-04T07:42:42.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T07:42:42.735Z"
             },
             {
               "$type": "Document",
@@ -156,14 +156,14 @@
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Chess.h",
               "ToolTip": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Chess.h",
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\Chess.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-04T07:42:18.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Man.h",
               "DocumentMoniker": "D:\\\u7A0B\u5E8F\\vs cpp\\\u4E94\u5B50\u68CB\\\u4E94\u5B50\u68CB\\Man.h",
               "RelativeDocumentMoniker": "\u4E94\u5B50\u68CB\\Man.h",
@@ -171,7 +171,8 @@
               "RelativeToolTip": "\u4E94\u5B50\u68CB\\Man.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-04T07:41:54.547Z"
+              "WhenOpened": "2025-10-04T07:41:54.547Z",
+              "EditorCaption": ""
             }
           ]
         }

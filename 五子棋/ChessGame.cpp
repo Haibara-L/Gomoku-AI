@@ -29,4 +29,5 @@ void ChessGame::play()
 			continue;
 		}
 	}
+	
 }

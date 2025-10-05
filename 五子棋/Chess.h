@@ -38,5 +38,7 @@ private:
 	IMAGE imageWhiteChess;
 	IMAGE imageBlackChess;
 	void upgradeBoardIf(ChessPos* pos);
+	bool checkWinner();
+	ChessPos lastPos;
 };
 
