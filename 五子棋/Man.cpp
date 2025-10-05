@@ -3,6 +3,8 @@
 void Man::init(Chess* chess)
 {
 	this->chess = chess;
+	/*bool flag = true;
+	this->chess->setPlayerFlag(flag);*/
 }
 
 void Man::go()

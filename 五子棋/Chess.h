@@ -25,6 +25,7 @@ public:
 	bool gameIsOver();
 	int getChessType(int row, int column);
 	int getChessType(ChessPos* pos);
+	/*void setPlayerFlag(bool player);*/
 
 
 private:

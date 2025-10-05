@@ -1,5 +1,4 @@
 #include "ChessGame.h"
-
 ChessGame::ChessGame(Chess* chess, Man* man, AI* ai)
 {
 	this->chess = chess;
@@ -9,6 +8,8 @@ ChessGame::ChessGame(Chess* chess, Man* man, AI* ai)
 	this->ai->init(chess);
 	this->man->init(chess);
 }
+
+
 
 void ChessGame::play()
 {

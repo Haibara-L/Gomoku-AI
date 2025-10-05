@@ -6,7 +6,6 @@ Chess::Chess(int boardsize, float marginX, float marginY, float chesssize)
 	this->chessSize = chesssize;
 	this->margin_x = marginX;
 	this->margin_y = marginY;
-	this->playerFlag = true;
 	for (int i = 0; i < boardSize; i++)
 	{
 		vector<int> v;
@@ -141,7 +140,7 @@ bool Chess::clickBoard(int x, int y, ChessPos* pos)
 
 int Chess::getBoardGrade()
 {
-	return 0;
+	return boardSize;
 }
 
 bool Chess::gameIsOver()
@@ -156,12 +155,17 @@ int Chess::getChessType(int row, int column)
 
 int Chess::getChessType(ChessPos* pos)
 {
-	return 0;
+	return chessMap[pos->row][pos->col];
 }
+
+//void Chess::setPlayerFlag(bool player)
+//{
+//	playerFlag = player;
+//}
 
 void Chess::upgradeBoardIf(ChessPos* pos)
 {
-	chessMap[pos->row][pos->col] == playerFlag?1:-1;
+	chessMap[pos->row][pos->col] = playerFlag?1:-1;
 	playerFlag = !playerFlag;
 }
 
