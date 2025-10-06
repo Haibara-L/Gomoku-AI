@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio 文件
+.vs/
+*.ipch
+*.sdf
+*.opensdf
+*.db
+*.suo
+*.user
+*.tmp
+*.log
