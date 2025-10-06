@@ -1,5 +1,7 @@
+#pragma comment(lib, "Winmm.lib")
+#include<Windows.h>
+#include<mmsystem.h>
 #include "Chess.h"
-
 Chess::Chess(int boardsize, float marginX, float marginY, float chesssize)
 {
 	this->boardSize = boardsize;
@@ -75,6 +77,8 @@ void Chess::chessDown(ChessPos* pos, chessType type)
 	lastPos.col = pos->col;
 	float x = (pos->row) * chessSize + margin_x - chessSize / 2;
 	float y = (pos->col) * chessSize + margin_y - chessSize / 2;
+	mciSendString("seek audio_chess to start", 0, 0, 0);
+	mciSendString("play audio_chess", 0, 0, 0);
 	if (type == BLACK_CHESS)
 	{
 		putimagePNG(x, y, &imageBlackChess);
@@ -152,11 +156,15 @@ bool Chess::gameIsOver()
 		Sleep(1500);
 		if (playerFlag == false)
 		{
-			cout << "ÄãÓ®ÁË" << endl;
+			mciSendString("seek audio_win to start", 0, 0, 0);
+			mciSendString("play audio_win", 0, 0, 0);
+			loadimage(0, "image/Ê¤Àû.jpg");
 		}
 		else
 		{
-			cout << "ÄãÊäÁË" << endl;
+			mciSendString("seek audio_lose to start", 0, 0, 0);
+			mciSendString("play audio_lose", 0, 0, 0);
+			loadimage(0, "image/Ê§°Ü.jpg");
 		}
 		system("pause");
 		return true;
