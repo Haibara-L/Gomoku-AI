@@ -40,17 +40,6 @@
 # debug information files
 *.dwo
 
-<<<<<<< HEAD
-# Visual Studio 临时文件、设置文件
-.vs/
-*.user
-*.userosscache
-*.sln.docstates
-
-# 项目文件
-bin/
-obj/
-=======
 # Visual Studio 文件
 .vs/
 *.ipch
@@ -61,4 +50,5 @@ obj/
 *.user
 *.tmp
 *.log
->>>>>>> 0be7eddce848b5dbddb69b3b965156ce3db02935
+.vs/
+*.ipch
